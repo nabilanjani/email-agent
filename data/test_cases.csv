@@ -1,0 +1,9 @@
+test_id,query,expected_intent,expected_email_ids
+T001,"Tolong berikan summary email tagihan bulan ini",invoice,"E001;E002;E007"
+T002,"Ada jadwal kunjungan vendor minggu ini?",schedule,"E003"
+T003,"Cari tagihan internet bulan November",invoice,"E002"
+T004,"Tampilkan informasi meeting minggu ini",meeting,"E006"
+T005,"Cari email promo belanja",promotion,"E004"
+T006,"Apa saja tagihan yang belum dibayar?",invoice,"E001;E002;E007"
+T007,"Cari informasi jadwal interview kandidat",schedule,"E008"
+T008,"Tampilkan bukti pembayaran internet",payment,"E009"

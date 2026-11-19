@@ -1,0 +1,73 @@
+
+[
+  {
+    "email_id": "E001",
+    "sender": "billing@gasrumah.example",
+    "subject": "Invoice Gas Rumah November 2026",
+    "received_at": "2026-11-10T08:05:00+07:00",
+    "body": "Vendor: Gas Rumah. Nominal tagihan Rp350.000. Jatuh tempo 25 November 2026. Status: Belum dibayar."
+  },
+  {
+    "email_id": "E002",
+    "sender": "finance@internet.example",
+    "subject": "Tagihan Internet November",
+    "received_at": "2026-11-12T09:15:00+07:00",
+    "body": "Tagihan internet bulan November sebesar Rp450.000. Batas pembayaran 28 November 2026. Status: Belum dibayar."
+  },
+  {
+    "email_id": "E003",
+    "sender": "travel@company.example",
+    "subject": "Jadwal Kunjungan Vendor",
+    "received_at": "2026-11-15T10:00:00+07:00",
+    "body": "Kunjungan vendor dijadwalkan pada 24 November 2026 pukul 13.00 WIB di kantor pusat."
+  },
+  {
+    "email_id": "E004",
+    "sender": "promo@shopping.example",
+    "subject": "Promo Belanja November",
+    "received_at": "2026-11-16T11:30:00+07:00",
+    "body": "Dapatkan diskon 50 persen untuk produk pilihan selama periode promo November."
+  },
+  {
+    "email_id": "E005",
+    "sender": "billing@electricity.example",
+    "subject": "Invoice Listrik Oktober",
+    "received_at": "2026-10-15T08:00:00+07:00",
+    "body": "Tagihan listrik Oktober sebesar Rp275.000. Jatuh tempo 25 Oktober 2026. Status: Sudah dibayar."
+  },
+  {
+    "email_id": "E006",
+    "sender": "admin@office.example",
+    "subject": "Undangan Meeting Mingguan",
+    "received_at": "2026-11-18T14:00:00+07:00",
+    "body": "Meeting mingguan dijadwalkan pada 20 November 2026 pukul 09.00 WIB melalui Microsoft Teams."
+  },
+  {
+    "email_id": "E007",
+    "sender": "billing@water.example",
+    "subject": "Informasi Pembayaran Air",
+    "received_at": "2026-11-19T07:30:00+07:00",
+    "body": "Pelanggan diminta melakukan pembayaran air bulan November sebesar Rp125.000 sebelum 27 November 2026. Status pembayaran belum diterima."
+  },
+  {
+    "email_id": "E008",
+    "sender": "hr@company.example",
+    "subject": "Informasi Jadwal Interview",
+    "received_at": "2026-11-19T09:00:00+07:00",
+    "body": "Interview kandidat dijadwalkan pada 23 November 2026 pukul 10.00 WIB."
+  },
+  {
+    "email_id": "E009",
+    "sender": "finance@company.example",
+    "subject": "Bukti Pembayaran Internet Oktober",
+    "received_at": "2026-11-05T10:00:00+07:00",
+    "body": "Pembayaran tagihan internet periode Oktober sebesar Rp400.000 telah berhasil dilakukan pada 4 November 2026."
+  },
+  {
+    "email_id": "E010",
+    "sender": "newsletter@technology.example",
+    "subject": "Newsletter Teknologi Mingguan",
+    "received_at": "2026-11-17T08:00:00+07:00",
+    "body": "Berikut informasi terbaru mengenai perkembangan teknologi artificial intelligence, software development, dan data science."
+  }
+]
